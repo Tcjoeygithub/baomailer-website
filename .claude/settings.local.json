@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"/Users/josephbrusca/Desktop/baomailer website/public\")",
+      "Bash(cp \"/Users/josephbrusca/Documents/Screenshot 2026-04-13 at 2.46.56 PM.png\" \"/Users/josephbrusca/Desktop/baomailer website/public/logo.png\")",
+      "Bash(mkdir -p \"/Users/josephbrusca/Desktop/baomailer website\")",
+      "Bash(cp \"/Users/josephbrusca/Documents/Screenshot 2026-04-13 at 2.46.56 PM.png\" \"/Users/josephbrusca/Desktop/baomailer website/logo.png\")",
+      "Bash(gh auth:*)",
+      "Bash(vercel --version)"
+    ]
+  }
+}
